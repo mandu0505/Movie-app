@@ -1,1 +1,1 @@
-https://mandu0505.github.io/React-movie-app/
+https://mandu0505.github.io/Movie-app/
